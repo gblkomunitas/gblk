@@ -43,4 +43,4 @@ def keep_alive():
     thread.start()
 
 keep_alive()
-bot.run("TOKEN_BOT")
+bot.run("token")
