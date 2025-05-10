@@ -1,0 +1,6 @@
+discord.py
+flask
+ollama
+TTS
+transformers
+gunicorn
